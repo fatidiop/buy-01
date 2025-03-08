@@ -103,7 +103,3 @@ The platform implements robust error handling:
 - Role-based access violations
 - Form validation
 - API error responses with appropriate status codes
-
-
-## Authors
-[Moussa Dieng](https://www.linkedin.com/in/moussa-dieng/)

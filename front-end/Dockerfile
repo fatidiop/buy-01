@@ -1,5 +1,5 @@
 FROM node:alpine
-LABEL authors="moussa"
+LABEL authors="user"
 
 WORKDIR /app
 
